@@ -11,7 +11,7 @@ function Home() {
     <div>
     <div className='Homesection'>
     <div>
-      <h1>Headline that highlights the <br />
+      <h1>Headline that highlights the<br />
                 Value Proposition
     </h1>
     <div>
